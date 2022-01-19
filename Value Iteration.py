@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[16]:
-
 
 """
 value iteration algorithm for a specific case of Gridworld
